@@ -15,9 +15,13 @@ Clone the repository: git clone "https://github.com/Revokid/AuraBeats.git"
 Navigate to the project folder: cd AuraBeats
 
 Create a .env file in the root of the project and add your API keys:
+
 WEATHER_API_KEY=your_weatherapi_key
+
 SPOTIFY_CLIENT_ID=your_spotify_client_id
+
 SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
+
 PORT=3000
 
 Install dependencies : npm i
