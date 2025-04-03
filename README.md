@@ -24,6 +24,10 @@ SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
 
 PORT=3000
 
+https://www.weatherapi.com
+
+https://developer.spotify.com/documentation/web-api
+
 Install dependencies : npm i
 
 Run the application: npm run dev
