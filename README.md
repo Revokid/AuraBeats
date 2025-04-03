@@ -1,6 +1,5 @@
 # AuraBeats
 
-AuraBeats
 AuraBeats is a web application that provides personalized weather and music recommendations based on the user’s mood and current weather conditions. Users can input their city to get real-time weather data, and the app will suggest music playlists that match both the weather and the selected mood.
 
 Overview
