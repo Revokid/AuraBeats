@@ -10,7 +10,7 @@ Users can enter a city name to receive real-time weather updates. Based on the w
 Built with Node.js and Express, AuraBeats offers a seamless experience, making it the perfect companion for any day, rain or shine.
 
 # Installation
-Clone the repository: git clone 
+Clone the repository: git clone "https://github.com/Revokid/AuraBeats.git"
 
 Navigate to the project folder: cd AuraBeats
 
